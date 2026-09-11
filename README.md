@@ -1,4 +1,4 @@
-# 🧪 Agentic AI Lab
+# CODENOIDS - AGENTIC AI ENGINEERING TRAINING
 
 ### From Python fundamentals to intelligent AI agents.
 
