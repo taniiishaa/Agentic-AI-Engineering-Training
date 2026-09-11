@@ -8,9 +8,9 @@ This repository captures my learning journey through **16 days of practical deve
 
 ---
 
-## ✨ About the Lab
+## ✨ About the Training 
 
-**Agentic AI Lab** is more than a collection of training exercises.
+**AGENTIC AI ENGINEERING TRAINING** is more than a collection of training exercises.
 
 It represents my transition from writing traditional programs to understanding how **AI systems can reason, interact with tools, consume external information, and perform tasks autonomously.**
 
@@ -630,6 +630,3 @@ If you're exploring **Agentic AI, LangChain, local LLMs, AI agents, tool calling
 
 ---
 
-### 🧪 Agentic AI Lab
-
-**Where code meets intelligence.**
