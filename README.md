@@ -612,7 +612,7 @@ The most valuable part of the experience was not just learning individual techno
 
 # 👩‍💻 About Me
 
-### Tanisha Chaudhary
+### Tanisha 
 
 **B.Tech Computer Science & Engineering**
 
