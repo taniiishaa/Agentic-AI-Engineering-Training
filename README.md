@@ -1,4 +1,4 @@
-# CODENOIDS - AGENTIC AI ENGINEERING TRAINING
+# CODENOIDS - AGENTIC AI ENGINEERING TRAINING 2026
 
 ### From Python fundamentals to intelligent AI agents.
 
